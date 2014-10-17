@@ -1,0 +1,20 @@
+{
+  "name": "akqa-test",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "authors": [
+    {
+      "name": "Eric Lee",
+      "email": "ericstone.dev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
