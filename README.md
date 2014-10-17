@@ -1,9 +1,5 @@
 ## AKQA Test - Booking for boardroom
 
-By: Eric Lee
-
-Email: ericstone57@gmail.com
-
 Work Hours: 3 hours in 27 Sep., 6 hours in 28 Sep.
 
 
